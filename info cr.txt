@@ -1,0 +1,2 @@
+methodes classique=prévisible=
+methodes agile=itérative=incrementale=imprévisible
